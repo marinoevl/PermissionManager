@@ -1,6 +1,6 @@
 # Permission Manager
 
-Aplicacion web (API, SPA) para asignacion y manejo de permisos desarrolladas con el fin de probar ciertas caracteristica de diseño y arquitectura de sofware.
+Aplicacion web (API, SPA) para asignacion y manejo de permisos desarrolladas con el fin de abordar ciertas caracteristica de diseño y arquitectura de sofware.
 
 Las funcionalidades a destacar son:
 
